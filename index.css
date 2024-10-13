@@ -1,0 +1,80 @@
+body{
+    background-color: #CDE8E5;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+.navbar{
+    border: 2px;
+    border-bottom: solid;
+    border-color: rgb(12, 3, 3);
+    background-color: #7AB2B2;
+}
+.card{
+    margin: 55px;
+}
+.mb-3{
+    padding: 10px;
+    margin: 10px;
+    border: 0px;
+    border-color: rgb(1, 1, 21);
+    border-style: solid;
+}
+.btn{
+    font-size: 28px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: black;
+    background-color: #CDE8E5;
+    padding-right: 100px;
+    padding-left: 100px;
+    margin-top: 10px;
+}
+
+
+.btn:hover{
+    background-color: rgb(170, 194, 239);
+}
+.btn1{
+    border-style: none;
+    padding-left: 100px;
+}
+.navbar-brand{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 34px;
+    padding-left: 60px;
+    margin-left: 60px;
+    border: violet;
+}
+.form-control{
+    padding-left: 30px;
+    margin-right: 100px;
+    margin-left: 0px;
+}
+.form-label{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    padding-top: 0px;
+}
+.form-ckeck-input{
+    padding-left: 100px;
+    margin-left: 100px;
+}
+.form-ckeck-label{
+    padding-left: 20px;
+    margin-left: 20px;
+}
+.form{
+    width: 100%;
+    display: flex;
+    text-align: center;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+.form_border{
+    background-color: #7AB2B2;
+    border: black solid 2px;
+    padding: 20px 50px;
+    -webkit-box-shadow: 22px -20px 31px 1px rgba(122,178,178,0.89);
+    -moz-box-shadow: 22px -20px 31px 1px rgba(122,178,178,0.89);
+    box-shadow: 22px -20px 31px 1px rgba(122,178,178,0.89);
+}
